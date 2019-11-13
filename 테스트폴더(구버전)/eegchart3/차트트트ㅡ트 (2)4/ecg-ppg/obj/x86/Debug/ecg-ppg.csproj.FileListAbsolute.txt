@@ -1,0 +1,114 @@
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.Cache
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\bikang\Documents\Visual Studio 2010\Projects\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+D:\COC\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+D:\COC\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.exe
+D:\COC\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\ecg-ppg\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\정민지\Desktop\eegchart3\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\eegchart3333\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Desktop\finaalchart\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\finaalchart_기준선추가\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Documents\카카오톡 받은 파일\colored chart\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\정민지\Desktop\colored chart (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\챠트\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\챠트\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\anna4\Desktop\챠트\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\김나혜\Desktop\차트트트ㅡ트\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.Cache
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\bin\Debug\ecg-ppg.exe
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\bin\Debug\ecg-ppg.pdb
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg_ppg.Form1.resources
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg_ppg.Properties.Resources.resources
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.exe
+C:\Users\정민지\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Debug\ecg-ppg.pdb
