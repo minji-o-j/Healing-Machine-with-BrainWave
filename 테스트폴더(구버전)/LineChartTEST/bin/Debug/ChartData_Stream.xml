@@ -1,0 +1,21 @@
+<Chart Size="575, 404" BackGradientStyle="TopBottom" BackSecondaryColor="PaleGreen" BorderlineColor="ForestGreen" BorderlineWidth="2" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Series1" Legend="Legend1" XValueType="DateTime" YValueType="Double" ChartType="Line" ChartArea="Defalut" Color="Firebrick" BorderColor="Red" BorderWidth="2">
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Legend1">
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="White" BackGradientStyle="TopBottom" BackSecondaryColor="PaleGreen" Name="Defalut">
+      <AxisX LabelAutoFitStyle="IncreaseFont, DecreaseFont, StaggeredLabels, WordWrap">
+        <ScaleView SizeType="Seconds" />
+      </AxisX>
+      <Position X="4.536885" Y="5.508361" Width="90.15778" Height="87.7291" Auto="False" />
+      <InnerPlotPosition X="9.31973" Y="3.5906" Width="88.93334" Height="85.39538" Auto="False" />
+      <Area3DStyle IsRightAngleAxes="False" Inclination="20" Rotation="50" WallWidth="21" PointDepth="200" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin SkinStyle="Emboss" BackColor="HighlightText" BackSecondaryColor="255, 128, 128" BorderWidth="23" BorderDashStyle="Solid" />
+</Chart>

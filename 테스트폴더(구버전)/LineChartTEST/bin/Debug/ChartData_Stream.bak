@@ -1,0 +1,86 @@
+<Chart Size="575, 404" BackGradientStyle="TopBottom" BackSecondaryColor="PaleGreen" BorderlineColor="ForestGreen" BorderlineWidth="2" BorderlineDashStyle="Solid">
+  <Series>
+    <Series Name="Series1" Legend="Legend1" XValueType="DateTime" YValueType="Double" ChartType="Line" ChartArea="Defalut" Color="Firebrick" BorderColor="Red" BorderWidth="2">
+      <Points>
+        <DataPoint XValue="40282.556021041666" YValues="20" />
+        <DataPoint XValue="40282.556022488425" YValues="39" />
+        <DataPoint XValue="40282.556024305559" YValues="43" />
+        <DataPoint XValue="40282.556026284721" YValues="50" />
+        <DataPoint XValue="40282.556027916668" YValues="38" />
+        <DataPoint XValue="40282.556029722226" YValues="26" />
+        <DataPoint XValue="40282.556031354165" YValues="25" />
+        <DataPoint XValue="40282.556032986111" YValues="25" />
+        <DataPoint XValue="40282.556034965281" YValues="57" />
+        <DataPoint XValue="40282.55603659722" YValues="33" />
+        <DataPoint XValue="40282.556038587965" YValues="11" />
+        <DataPoint XValue="40282.556040219904" YValues="35" />
+        <DataPoint XValue="40282.556047627317" YValues="38" />
+        <DataPoint XValue="40282.556053958331" YValues="73" />
+        <DataPoint XValue="40282.556059386574" YValues="85" />
+        <DataPoint XValue="40282.556064444441" YValues="30" />
+        <DataPoint XValue="40282.556069155093" YValues="74" />
+        <DataPoint XValue="40282.55607366898" YValues="5" />
+        <DataPoint XValue="40282.556078553243" YValues="2" />
+        <DataPoint XValue="40282.5560837963" YValues="34" />
+        <DataPoint XValue="40282.556092303239" YValues="11" />
+        <DataPoint XValue="40282.556102789349" YValues="1" />
+        <DataPoint XValue="40282.556104780095" YValues="16" />
+        <DataPoint XValue="40282.556106400465" YValues="78" />
+        <DataPoint XValue="40282.556108032404" YValues="66" />
+        <DataPoint XValue="40282.556110740741" YValues="17" />
+        <DataPoint XValue="40282.556112557868" YValues="46" />
+        <DataPoint XValue="40282.556117071763" YValues="4" />
+        <DataPoint XValue="40282.5561190625" YValues="10" />
+        <DataPoint XValue="40282.556120694448" YValues="42" />
+        <DataPoint XValue="40282.556123402777" YValues="71" />
+        <DataPoint XValue="40282.556125034724" YValues="83" />
+        <DataPoint XValue="40282.556126840274" YValues="77" />
+        <DataPoint XValue="40282.556128645832" YValues="96" />
+        <DataPoint XValue="40282.55613045139" YValues="2" />
+        <DataPoint XValue="40282.556132268517" YValues="32" />
+        <DataPoint XValue="40282.556134074075" YValues="57" />
+        <DataPoint XValue="40282.556135706021" YValues="8" />
+        <DataPoint XValue="40282.556137870371" YValues="17" />
+        <DataPoint XValue="40282.556175486112" YValues="6" />
+        <DataPoint XValue="40282.556197002312" YValues="16" />
+        <DataPoint XValue="40282.556290138891" YValues="22" />
+        <DataPoint XValue="40282.556294120368" YValues="68" />
+        <DataPoint XValue="40282.556295752314" YValues="92" />
+        <DataPoint XValue="40282.556297743053" YValues="81" />
+        <DataPoint XValue="40282.556299363423" YValues="76" />
+        <DataPoint XValue="40282.556301354169" YValues="34" />
+        <DataPoint XValue="40282.556302986108" YValues="55" />
+        <DataPoint XValue="40282.556304976853" YValues="36" />
+        <DataPoint XValue="40282.556306782404" YValues="75" />
+        <DataPoint XValue="40282.556308587962" YValues="86" />
+        <DataPoint XValue="40282.556310219908" YValues="87" />
+        <DataPoint XValue="40282.556312025466" YValues="86" />
+        <DataPoint XValue="40282.556313657406" YValues="78" />
+        <DataPoint XValue="40282.556315462964" YValues="67" />
+        <DataPoint XValue="40282.5563174537" YValues="95" />
+        <DataPoint XValue="40282.556319074072" YValues="95" />
+        <DataPoint XValue="40282.556320891206" YValues="27" />
+        <DataPoint XValue="40282.556322511577" YValues="83" />
+        <DataPoint XValue="40282.556324317127" YValues="83" />
+        <DataPoint XValue="40282.556325949074" YValues="19" />
+        <DataPoint XValue="40282.556328125" YValues="53" />
+        <DataPoint XValue="40282.55632974537" YValues="98" />
+      </Points>
+    </Series>
+  </Series>
+  <Legends>
+    <Legend Name="Legend1">
+    </Legend>
+  </Legends>
+  <ChartAreas>
+    <ChartArea BackColor="White" BackGradientStyle="TopBottom" BackSecondaryColor="PaleGreen" Name="Defalut">
+      <AxisX LabelAutoFitStyle="IncreaseFont, DecreaseFont, StaggeredLabels, WordWrap">
+        <ScaleView SizeType="Seconds" />
+      </AxisX>
+      <Position X="4.536885" Y="5.508361" Width="90.15778" Height="87.7291" Auto="False" />
+      <InnerPlotPosition X="9.31973" Y="3.5906" Width="88.93334" Height="85.39538" Auto="False" />
+      <Area3DStyle IsRightAngleAxes="False" Inclination="20" Rotation="50" WallWidth="21" PointDepth="200" />
+    </ChartArea>
+  </ChartAreas>
+  <BorderSkin SkinStyle="Emboss" BackColor="HighlightText" BackSecondaryColor="255, 128, 128" BorderWidth="23" BorderDashStyle="Solid" />
+</Chart>
