@@ -1,0 +1,13 @@
+﻿<Window x:Class="test3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="button" Content="START!!" HorizontalAlignment="Center" VerticalAlignment="Center" Width="518" Margin="0" Click="button_Click_1" FontSize="60" FontWeight="Bold" Height="321" Background="Black" Foreground="White" BorderBrush="Black"/>
+
+    </Grid>
+</Window>
