@@ -1,0 +1,39 @@
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.exe
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.exe.config
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csprojResolveAssemblyReference.cache
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.Form1.resources
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.Properties.Resources.resources
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csproj.GenerateResource.Cache
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.exe
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.pdb
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.pdb
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.exe.config
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.exe
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.pdb
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.exe
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.pdb
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csprojResolveAssemblyReference.cache
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.Form1.resources
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.Properties.Resources.resources
+C:\Users\성원\Desktop\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.exe.config
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.exe
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\bin\Debug\ERP_BNT.pdb
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.Form1.resources
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.Properties.Resources.resources
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.exe
+C:\Users\user\Desktop\BrainWave items\HelloEEG\ERP_BNT\obj\Debug\ERP_BNT.pdb
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\bin\Debug\ERP_BNT.exe.config
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\bin\Debug\ERP_BNT.exe
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\bin\Debug\ERP_BNT.pdb
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.Form1.resources
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.Properties.Resources.resources
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.csproj.CopyComplete
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.exe
+C:\Users\정민지\Desktop\HelloEEG2\ERP_BNT\obj\Debug\ERP_BNT.pdb
