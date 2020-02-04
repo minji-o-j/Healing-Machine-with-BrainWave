@@ -1,0 +1,55 @@
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe.config
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\HelloEEG\bin\Debug\HelloEEG.pdb
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\HelloEEG\obj\Debug\HelloEEG.csprojResolveAssemblyReference.cache
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\HelloEEG\obj\Debug\HelloEEG.exe
+C:\Users\dbtjq\documents\visual studio 2015\Projects\HelloEEG\HelloEEG\obj\Debug\HelloEEG.pdb
+C:\Users\성원\Desktop\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe.config
+C:\Users\성원\Desktop\HelloEEG\HelloEEG\obj\Debug\HelloEEG.exe
+C:\Users\성원\Desktop\HelloEEG\HelloEEG\obj\Debug\HelloEEG.pdb
+C:\Users\user\Desktop\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe.config
+C:\Users\user\Desktop\HelloEEG\HelloEEG\obj\Debug\HelloEEG.exe
+C:\Users\user\Desktop\HelloEEG\HelloEEG\obj\Debug\HelloEEG.pdb
+C:\Users\user\Desktop\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe
+C:\Users\user\Desktop\HelloEEG\HelloEEG\bin\Debug\HelloEEG.pdb
+C:\Users\user\Desktop\HelloEEG\HelloEEG\obj\Debug\HelloEEG.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HelloEEG\HelloEEG\obj\Debug\HelloEEG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\obj\Debug\HelloEEG.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\obj\Debug\HelloEEG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\obj\Debug\HelloEEG.exe
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\obj\Debug\HelloEEG.pdb
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe.config
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\bin\Debug\HelloEEG.exe
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\bin\Debug\HelloEEG.pdb
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\BrainWave items\HelloEEG\HelloEEG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\HelloEEG\HelloEEG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\HelloEEG\HelloEEG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.exe.config
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.exe
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.pdb
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.exe
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.pdb
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\김나혜\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csprojResolveAssemblyReference.cache
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.exe.config
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.exe
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.pdb
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csproj.CopyComplete
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.exe
+C:\Users\정민지\Desktop\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.pdb
+T:\COC4기\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.exe.config
+T:\COC4기\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.exe
+T:\COC4기\HelloEEG2\HelloEEG\bin\Debug\HelloEEG.pdb
+T:\COC4기\HelloEEG2\HelloEEG\bin\Debug\Newtonsoft.Json.dll
+T:\COC4기\HelloEEG2\HelloEEG\bin\Debug\Newtonsoft.Json.xml
+T:\COC4기\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csprojAssemblyReference.cache
+T:\COC4기\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csproj.CoreCompileInputs.cache
+T:\COC4기\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.csproj.CopyComplete
+T:\COC4기\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.exe
+T:\COC4기\HelloEEG2\HelloEEG\obj\Debug\HelloEEG.pdb
