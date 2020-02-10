@@ -8,7 +8,7 @@
 
 * 개발자
 
-  -김나혜(@nahye03), 정민지(@minji-o-j), 한나연(@HanNayeoniee)
+  -김나혜(@nahye03), 정민지(@minji-o-j), 한나연(@HanNayeoniee), 
   
   
 * 설명
