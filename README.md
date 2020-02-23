@@ -1,4 +1,4 @@
-# 뇌파힐링기
+# 뇌파 힐링기
 # Healing Machine with BrainWave
 
 * 요약 
