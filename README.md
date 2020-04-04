@@ -60,7 +60,10 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 
 ---
 ## 알고리즘
-![image](https://user-images.githubusercontent.com/45448731/78454763-07d91400-76d5-11ea-9f19-b0fab9c95be1.png)
+![image](https://user-images.githubusercontent.com/45448731/78454999-c34e7800-76d6-11ea-870c-725ff5c55443.png)
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78455012-cfd2d080-76d6-11ea-90d0-033d7b09881d.png)
 
 ---
   
