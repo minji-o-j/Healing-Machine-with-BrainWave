@@ -19,7 +19,7 @@
   
   - 사용자의 감정이 좋을 때에는 좋은 기분을 유지시킬수 있도록 사용자가 평소 좋아하는 노래를 재생한다.
   
-  - projection mapping을 이용하여 3면에 화면을 띄워 몰입도를 높혔다. 
+  - projection mapping을 이용하여 3면에 화면을 띄워 몰입도를 높였다. 
 
 ---
 ## 기획 배경
@@ -29,7 +29,7 @@
 - 자연 영상을 보는 것만으로도 우울이나 불안감이 감소하고, 기분이 좋아졌다는 연구 결과가 있다.
 - 특히 청색과 녹색이 스트레스의 완화에 효과적이며, 자연 소리는 마음을 편안하게 해준다.  
 
-__-->자연 경관을 통해 현대인의 스트레스를 완화시켜주는 프로그램을 기획하게 되었다.__
+__-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시켜주는 프로그램을 기획하게 되었다.__
 
 ---
 ## 개발 기간
@@ -37,8 +37,21 @@ __-->자연 경관을 통해 현대인의 스트레스를 완화시켜주는 프
 ---
 
 ## 개발자
+- [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j/), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee/)
+---
+## 사용 하드웨어
 
-  - [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j/), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee/)
+- [MindWave Mobile 2: Brainwave Starter Kit](https://store.neurosky.com/pages/mindwave)
+
+![image](https://user-images.githubusercontent.com/45448731/78454346-7e284700-76d2-11ea-91e0-2a6d09180e74.png)
+
+  - EEG power spectrums, 12bit Raw-Brainwaves
+  - 품질 분석 기능
+  
+- 빔 프로젝터
+
+<br>
+
 ---
   
 ## 설명
