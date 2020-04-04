@@ -93,12 +93,12 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 - 사용자의 기분을 단시간에 좋게/나쁘게 만들어주는 영상을 재생한다.
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78456281-b2edcb80-76dd-11ea-84a4-04f6a4113f6e.png)  
+![image](https://user-images.githubusercontent.com/45448731/78456662-e9c4e100-76df-11ea-88e2-f3a0816ca673.png)  
 > 기분이 나빠졌을 때 나오는 화면  
 - 기분 개선에 도움이 되는 자연 영상을 재생한다.
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78456284-b5502580-76dd-11ea-90f5-145e3bd0456a.png)
+![image](https://user-images.githubusercontent.com/45448731/78456667-ecbfd180-76df-11ea-8c6b-46664ca1a890.png)  
 > 기분이 좋아졌을 때 나오는 화면
 - 사용자의 좋은 기분을 계속 유지할 수 있도록 사용자가 좋아하는 노래 + 자연 영상을 재생한다.
 <br>
