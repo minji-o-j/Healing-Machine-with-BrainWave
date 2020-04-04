@@ -1,6 +1,7 @@
 # 뇌파 힐링기
 # Healing Machine with BrainWave
 ![image](https://img.shields.io/badge/license-Apache--2.0-green)
+![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Visual-Studio)  
 
 [요약](#요약)  
 [기획 배경](#기획-배경)  
