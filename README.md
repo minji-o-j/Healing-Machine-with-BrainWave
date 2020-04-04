@@ -3,10 +3,10 @@
 ![image](https://img.shields.io/badge/license-Apache--2.0-green)
 ![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Visual-Studio)  
 
-[요약](#요약)  
-[목적 및 기획 배경](#목적-및-기획-배경)  
+[요약](#요약)   
 [개발 기간](#개발-기간)  
 [개발자](#개발자)  
+[목적 및 기획 배경](#목적-및-기획-배경)  
 [사용 하드웨어](#사용-하드웨어)  
 [사용 프로그램](#사용-프로그램)  
 [알고리즘](#알고리즘) - [긍/부정도 판단 방법](#긍부정도-판단-방법), [공간 구성](#공간-구성)  
@@ -27,6 +27,13 @@
   - __Projection mapping__ 을 이용하여 3면에 화면을 띄워 몰입도를 높였다. 
 
 ---
+## 개발 기간
+- 2018/08/24~2018/09/10
+---
+
+## 개발자
+- [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j/), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee/)
+---
 ## 목적 및 기획 배경
 - 현대인의 스트레스를 완화시켜 주고 싶다.
 
@@ -37,13 +44,7 @@
 __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시켜주는 프로그램을 기획하게 되었다.__
 
 ---
-## 개발 기간
-- 2018/08/24~2018/09/10
----
 
-## 개발자
-- [김나혜(nahye03)](https://github.com/nahye03), [정민지(minji-o-j)](https://github.com/minji-o-j/), [한나연(HanNayeoniee)](https://github.com/HanNayeoniee/)
----
 ## 사용 하드웨어
 
 - [MindWave Mobile 2: Brainwave Starter Kit](https://store.neurosky.com/pages/mindwave)
