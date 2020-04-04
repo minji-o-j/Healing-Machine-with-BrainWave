@@ -129,11 +129,11 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 > 전시 관람중인 모습
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78457167-30680a80-76e3-11ea-9ece-5d670d6fae39.png)  
+![image](https://user-images.githubusercontent.com/45448731/78457324-59d56600-76e4-11ea-9e34-1eda3d863a7d.png)  
 > 뇌파 측정 countdown  
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78457270-ee8b9400-76e3-11ea-9914-ea02ce2987b4.png)
+![image](https://user-images.githubusercontent.com/45448731/78457357-8b4e3180-76e4-11ea-8e03-772666930c61.png)
 > 기분을 나쁘게 하는 영상 재생 안내 문구
 <br>
 
@@ -141,7 +141,7 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 > 기분을 나쁘게 하는 영상 재생  
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78457205-702ef200-76e3-11ea-90b6-1c6e32da7300.png)
+![image](https://user-images.githubusercontent.com/45448731/78457378-ac168700-76e4-11ea-8d65-bd0c1b37b460.png)
 > 사용자의 기분이 나쁘다고 판단됨
 <br>
 
@@ -149,7 +149,7 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 > 기분이 좋아지도록 자연 영상 재생
 <br>
 
-![image](https://user-images.githubusercontent.com/45448731/78457230-a79d9e80-76e3-11ea-89e5-d199a57632d3.png)
+![image](https://user-images.githubusercontent.com/45448731/78457398-d23c2700-76e4-11ea-9dd3-f14261792772.png)
 > 기분이 좋아진 경우 안내 문구
 <br>
 
