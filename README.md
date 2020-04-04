@@ -43,12 +43,10 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 
 - [MindWave Mobile 2: Brainwave Starter Kit](https://store.neurosky.com/pages/mindwave)
 
-![image](https://user-images.githubusercontent.com/45448731/78454346-7e284700-76d2-11ea-91e0-2a6d09180e74.png)
+  ![image](https://user-images.githubusercontent.com/45448731/78454346-7e284700-76d2-11ea-91e0-2a6d09180e74.png)
 
   - EEG power spectrums, 12bit Raw-Brainwaves
   - 품질 분석 기능
-  
-- 빔 프로젝터
 
 <br>
 
