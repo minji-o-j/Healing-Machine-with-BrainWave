@@ -10,6 +10,7 @@
 [사용 프로그램](#사용-프로그램)  
 [알고리즘](#알고리즘) - [긍/부정도 판단 방법](#긍부정도-판단-방법), [공간 구성](#공간-구성)  
 [결과](#결과)  
+[실제 구동 사진](#실제-구동-사진)  
 
 ---
 
@@ -76,6 +77,7 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 ![image](https://user-images.githubusercontent.com/45448731/78455108-5b4c6180-76d7-11ea-9cdf-87b660785cd5.png)
 ![image](https://user-images.githubusercontent.com/45448731/78455111-5e475200-76d7-11ea-957c-ef475c8baf6d.png)
 > 13명x2번의 실험을 통해 얻어진 데이터를 분석하여 긍/부정의 기준 지표를 정하였다.
+<br>
 
 
 ### 공간 구성
@@ -121,4 +123,37 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 - 기분이 나빠졌을 때 자연을 보고 기분이 개선되었다고 판단된 경우 문구가 나온다.
 - 기분이 좋을 때 일정 시간 후에도 계속 좋은 기분이 유지되는 경우 문구가 나온다.
 
+---
+## 실제 구동 사진
+![image](https://user-images.githubusercontent.com/45448731/78457129-fc8ce500-76e2-11ea-92d2-1af802f4c475.png)  
+> 전시 관람중인 모습
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457167-30680a80-76e3-11ea-9ece-5d670d6fae39.png)  
+> 뇌파 측정 countdown  
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457270-ee8b9400-76e3-11ea-9914-ea02ce2987b4.png)
+> 기분을 나쁘게 하는 영상 재생 안내 문구
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457290-1e3a9c00-76e4-11ea-9a7c-351ec7b4e69f.png)
+> 기분을 나쁘게 하는 영상 재생  
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457205-702ef200-76e3-11ea-90b6-1c6e32da7300.png)
+> 사용자의 기분이 나쁘다고 판단됨
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457212-8046d180-76e3-11ea-8fe6-73b98a7ddeef.png)
+> 기분이 좋아지도록 자연 영상 재생
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457230-a79d9e80-76e3-11ea-89e5-d199a57632d3.png)
+> 기분이 좋아진 경우 안내 문구
+<br>
+
+![image](https://user-images.githubusercontent.com/45448731/78457239-c69c3080-76e3-11ea-863c-392e2341bfcb.png)
+> 기분이 좋아진 경우 노래 영상 재생
+<br>
 ---
