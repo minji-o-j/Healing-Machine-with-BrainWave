@@ -62,10 +62,17 @@ __-->자연 경관을 보여줌으로써 현대인의 스트레스를 완화시�
 ## 알고리즘
 ![image](https://user-images.githubusercontent.com/45448731/78454999-c34e7800-76d6-11ea-870c-725ff5c55443.png)  
 <br>
+
+### 긍/부정도 판단 방법
+
+![image](https://user-images.githubusercontent.com/45448731/78456092-b6348780-76dc-11ea-87fa-1cab000c4e2f.png)  
+> 스트레스를 받을 때 나오는 “high beta”파를 측정하여 기분의 좋음과 나쁨을 판단하였다.
 <br>
+
+
 ![image](https://user-images.githubusercontent.com/45448731/78455108-5b4c6180-76d7-11ea-9cdf-87b660785cd5.png)
 ![image](https://user-images.githubusercontent.com/45448731/78455111-5e475200-76d7-11ea-957c-ef475c8baf6d.png)
-
+> 13명x2번의 실험을 통해 얻어진 데이터를 분석하여 긍/부정의 기준 지표를 정하였다.
 ---
   
 ## 설명
