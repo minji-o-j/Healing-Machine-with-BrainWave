@@ -1,0 +1,44 @@
+C:\Users\김나혜\Desktop\test5\test5\bin\Debug\test5.exe.config
+C:\Users\김나혜\Desktop\test5\test5\bin\Debug\test5.exe
+C:\Users\김나혜\Desktop\test5\test5\bin\Debug\test5.pdb
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5.csprojResolveAssemblyReference.cache
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\MainWindow.g.cs
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\App.g.cs
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5_MarkupCompile.cache
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5_MarkupCompile.lref
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\MainWindow.baml
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5.g.resources
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5.Properties.Resources.resources
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5.csproj.GenerateResource.Cache
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5.exe
+C:\Users\김나혜\Desktop\test5\test5\obj\Debug\test5.pdb
+C:\Users\정민지\Desktop\test마우스\test5\bin\Debug\test5.exe.config
+C:\Users\정민지\Desktop\test마우스\test5\bin\Debug\test5.exe
+C:\Users\정민지\Desktop\test마우스\test5\bin\Debug\test5.pdb
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\MainWindow.g.cs
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\App.g.cs
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5_MarkupCompile.cache
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5_MarkupCompile.lref
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\MainWindow.baml
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.g.resources
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.Properties.Resources.resources
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.exe
+C:\Users\정민지\Desktop\test마우스\test5\obj\Debug\test5.pdb
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\bin\Debug\test5.exe.config
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\bin\Debug\test5.exe
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\bin\Debug\test5.pdb
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.csprojAssemblyReference.cache
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\MainWindow.g.cs
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\App.g.cs
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5_MarkupCompile.cache
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5_MarkupCompile.lref
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\MainWindow.baml
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.g.resources
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.Properties.Resources.resources
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.exe
+C:\Users\정민지\Desktop\　\COC4기\test마우스\test5\obj\Debug\test5.pdb
