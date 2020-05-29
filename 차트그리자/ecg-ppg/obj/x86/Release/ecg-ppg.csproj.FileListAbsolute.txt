@@ -1,0 +1,18 @@
+C:\Users\휴먼지능정보공학과\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Release\ecg_ppg.Form1.resources
+C:\Users\휴먼지능정보공학과\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Release\ecg_ppg.Properties.Resources.resources
+C:\Users\휴먼지능정보공학과\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Release\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\휴먼지능정보공학과\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Release\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg.exe.config
+C:\Users\휴먼지능정보공학과\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Release\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Desktop\차트트트ㅡ트 (2)\ecg-ppg\obj\x86\Release\ecg-ppg.pdb
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg.exe
+C:\Users\휴먼지능정보공학과\Desktop\ecg-ppg.pdb
+C:\Users\정민지\Desktop\차트그리자\ecg-ppg\obj\x86\Release\ecg_ppg.Form1.resources
+C:\Users\정민지\Desktop\차트그리자\ecg-ppg\obj\x86\Release\ecg_ppg.Properties.Resources.resources
+C:\Users\정민지\Desktop\차트그리자\ecg-ppg\obj\x86\Release\ecg-ppg.csproj.GenerateResource.cache
+C:\Users\정민지\Desktop\차트그리자\ecg-ppg\obj\x86\Release\ecg-ppg.csproj.CoreCompileInputs.cache
+C:\Users\정민지\Desktop\ecg-ppg.exe.config
+C:\Users\정민지\Desktop\차트그리자\ecg-ppg\obj\x86\Release\ecg-ppg.exe
+C:\Users\정민지\Desktop\차트그리자\ecg-ppg\obj\x86\Release\ecg-ppg.pdb
+C:\Users\정민지\Desktop\ecg-ppg.exe
+C:\Users\정민지\Desktop\ecg-ppg.pdb
