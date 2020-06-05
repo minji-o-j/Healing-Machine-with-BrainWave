@@ -1,8 +1,9 @@
 # 뇌파 힐링기
 # Healing Machine with BrainWave
-![image](https://img.shields.io/badge/license-Apache--2.0-green)
-![image](https://img.shields.io/badge/language-C%23-blue?style=plat&logo=Visual-Studio)
-![image](https://img.shields.io/badge/Latest%20Update-200404-9cf)    
+![image](https://img.shields.io/badge/license-Apache--2.0-green?style=flat-square)
+![image](https://img.shields.io/badge/language-C%23-blue?style=flat-square&logo=Visual-Studio)
+![image](https://img.shields.io/badge/Latest%20Update-200404-9cf?style=flat-square)
+![HitCount](http://hits.dwyl.com/minji-o-j/Healing-Machine-with-BrainWave.svg)  
 
 [요약](#요약)   
 [개발 기간](#개발-기간)  
